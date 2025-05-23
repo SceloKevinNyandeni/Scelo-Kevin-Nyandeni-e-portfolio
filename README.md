@@ -62,8 +62,8 @@ _"To continuously grow both personally and professionally, while contributing po
 
 ## 🧬 Personality Assessment
 
-**EVIDENCE (10%)**  
-[📷 View Screenshot](./assets/personality-assessment.png)
+**EVIDENCE**  
+[📷 View image](./assets/personality-assessment.png)
 
 **REFLECTION**  
 **S:** I wanted to understand how my personality fits in the workplace.  
@@ -76,7 +76,7 @@ _"To continuously grow both personally and professionally, while contributing po
 ## 📄 Create a CV
 
 **EVIDENCE**  
-[📷 View Screenshot](./assets/create-cv.png)
+[📷 View image](./assets/create-cv.png)
 
 **REFLECTION**  
 **S:** I needed a proper CV for job applications.  
@@ -89,7 +89,7 @@ _"To continuously grow both personally and professionally, while contributing po
 ## 📤 CV Submission
 
 **EVIDENCE**  
-[📷 View Screenshot](./assets/cv-submission.png)
+[📷 View image](./assets/cv-submission.png)
 
 **REFLECTION**  
 **S:** It was time to finalize and submit my CV alongside with my NSC certicate and ID copy.  
