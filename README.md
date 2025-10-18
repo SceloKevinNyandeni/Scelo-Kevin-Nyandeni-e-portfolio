@@ -99,6 +99,72 @@ _"To continuously grow both personally and professionally, while contributing po
 
 ---
 
+---
+
+## 🗣️ Business Communication
+
+**EVIDENCE**  
+[📷 View image](./assets/business-communication.png)
+
+**REFLECTION (STAR)**  
+**S:** I wanted to enhance my professional communication in written and verbal forms.  
+**T:** Practice clear, structured communication for workplace contexts.  
+**A:** Completed modules on email etiquette, presentations, and workplace tone.  
+**R:** I now communicate more confidently and professionally across various settings.
+
+---
+
+## 💬 Interview Skills
+
+**EVIDENCE**  
+[📷 View image](./assets/interview-skills.png)
+
+**REFLECTION (STAR)**  
+**S:** I had limited confidence in interviews.  
+**T:** Learn techniques to prepare and respond effectively to common questions.  
+**A:** Attended workshops, practiced mock interviews, and refined my responses using the STAR method.  
+**R:** My confidence and delivery improved significantly in both face-to-face and virtual interviews.
+
+---
+
+## 🎥 Mock Interview 
+
+**EVIDENCE**  
+(https://github.com/wil-it2025/cv-tutorial-SceloKevinNyandeni)
+
+**REFLECTION (STAR)**  
+**S:** I needed hands-on experience simulating a real interview environment.  
+**T:** Apply communication and interview techniques in a realistic setting.  
+**A:** Participated in a recorded mock interview.  
+**R:** Learned to manage anxiety and improved my posture, tone, and response clarity.
+
+---
+
+## 🌐 Professional Networking 
+
+**EVIDENCE**  
+[📷 View image](./assets/professional-networking.png)
+
+**REFLECTION (STAR)**  
+**S:** I lacked professional industry connections.  
+**T:** Build a LinkedIn profile and engage with professionals in my field.  
+**A:** Created a professional profile, joined groups, and shared insights about ICT topics.  
+**R:** Expanded my network and began connecting with potential mentors and employers.
+
+---
+
+## 🏢 Workplace Etiquette 
+
+**EVIDENCE**  
+[📷 View image](./assets/workplace-etiquette.png)
+
+**REFLECTION (STAR)**  
+**S:** I wanted to understand acceptable behavior and culture in professional environments.  
+**T:** Learn proper conduct, teamwork, and workplace communication.  
+**A:** Participated in a session about workplace expectations and professional conduct.  
+**R:** I now apply positive etiquette in communication and teamwork, ensuring a respectful and efficient work environment.
+
+
 ## 📫 Contact
 
 - Email: scelokevinnyandeni22@gmail.com
